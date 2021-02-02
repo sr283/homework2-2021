@@ -18,9 +18,14 @@ h2 {
 }
 
 
-p{
+p {
     font-size: 24px;
     padding-top: 15px;
+}
+
+div {
+    height: 150px;
+    padding: 25px;
 }
 
 
